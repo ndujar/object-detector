@@ -1,4 +1,4 @@
-# symmetrical-octo-happiness
+# Torch object detector re-trainer
 Using PyTorch's Object Detection API to re-train and adapt a model to our purposes from a COCO dataset.
 It also exploits FiftyOne capabilities to improve dataset inspection and analysis.
 ## Usage:
